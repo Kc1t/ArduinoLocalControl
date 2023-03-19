@@ -14,7 +14,7 @@ ligarBtn.addEventListener("click", function() {
   statusBtn.style.background = "#F32C38";
   statusBtn.style.boxShadow = "0px 0px 10px #F32C38";
 
-  }, 3000);
+  }, 900);
 
 });
 

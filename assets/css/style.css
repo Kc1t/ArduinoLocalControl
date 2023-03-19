@@ -2,13 +2,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    border: none;
+    outline: none;
 }
 
 body{
     background: linear-gradient(109.39deg, #26313F 1.06%, #0E0D14 99.7%);
     color: #495D75;
-    /* min-height: 100vh; */
-    /* min-width: 100vw; */
 }
 
 .wrapper{
