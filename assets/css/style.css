@@ -3,3 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    display: flex;
+    min-height: 500vh;
+    min-width: 500vw;
+}
